@@ -19,6 +19,8 @@ Greetings! I'm TechnicalYadi, a Cybersecurity Enthusiast. 👋
 - 
 - ⚡ Fun fact: I can configure and use Kali Linux tools like a pro — and I tie turbans too!
 
+- -->
+
 ## Skills
 
 - Programming: Python, Bash
