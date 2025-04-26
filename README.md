@@ -13,7 +13,10 @@ Greetings! I'm TechnicalYadi, a Cybersecurity Enthusiast. 👋
 - 💻 I love exploring open-source tools and Linux-based systems.
 - 👯 I’m looking to collaborate on tech projects related to security, automation, and system tools.
 - 🤔 I’m looking for help with real-world project building and bug hunting.
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me for collaboration with us :
+-  INSTAGRAM ID 👉👉 y_s_sidhu_
+-  EMAIL ME ⏭️⏭️ insanyadwinder688@gmail.com
+- 
 - ⚡ Fun fact: I can configure and use Kali Linux tools like a pro — and I tie turbans too!
 
 ## Skills
